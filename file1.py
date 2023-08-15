@@ -9,4 +9,3 @@ travel = 'JeJu'
 print("I recentry went to", travel)
 print("and I did there", my_hobby)
 
-def 
