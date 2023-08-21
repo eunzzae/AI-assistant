@@ -23,3 +23,4 @@ player.pop('alive')
 player['friend']['fav_food'].append('🥐')
 
 print(player)
+
